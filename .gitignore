@@ -1,0 +1,14 @@
+# Terraform state — never commit
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+
+# Credentials — never commit
+*.pem
+*.pub
+
+# OS noise
+.DS_Store
+Thumbs.db
+.vscode/
