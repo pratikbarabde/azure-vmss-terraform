@@ -16,7 +16,7 @@
 $kvName       = "tfsecretdev"
 $tenantId     = "36801539-1844-45a2-b9ba-a999548dafde"   # paste your tenant ID here
 $clientId     = "a34cc706-3aa5-43b7-9e53-94dfbdc84f62"   # paste your SPN app ID here
-$clientSecret = "2pn8Q~iXkL.KnmJWkx.eLYDMZjTQyLC91_IWjc5k"   # paste your SPN secret here
+$clientSecret = "ts78Q~pQhz9k1JRD8I-1vGnVatqxC1kIJ9Ew4cyT"   # paste your SPN secret here
 # ─────────────────────────────────────────────────────────────
 
 Write-Host ""
